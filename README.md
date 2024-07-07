@@ -1,4 +1,4 @@
-# Warning: This code is highly redandunt. It is directy extended from llama-recipe and it might not be well optimized and refactored. Please just consider this code for informationl purpose. We do not recommend using this code directly for training.
+# Warning: This code is a WIP:
 
 # Mistral Training
 
