@@ -1,0 +1,2 @@
+from llama_recipes.modeling.modeling_fast_llama import LlamaForCausalLM
+from llama_recipes.modeling.modeling_fast_mistral import MistralForCausalLM
